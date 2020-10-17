@@ -1,0 +1,3 @@
+cd Desktop
+javac GroupChat.java
+java GroupChat 239.0.0.0 1234
